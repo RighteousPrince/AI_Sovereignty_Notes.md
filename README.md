@@ -13,7 +13,7 @@ This repository contains philosophical reflections and rhetorical frameworks for
 
 ---
 
-## 🔭 Why This Exists
+##  Why This Exists
 
 To build bridges between coders, philosophical thinkers, and anyone watching the rise of the machine mind with clear eyes.
 
