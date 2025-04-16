@@ -15,9 +15,9 @@ This repository contains philosophical reflections and rhetorical frameworks for
 
 ##  Why This Exists
 
-To build bridges between coders, philosophical thinkers, and anyone watching the rise of the machine mind with clear eyes.
+To build bridges between coders, philosophical thinkers, and anyone watching the rise of the machine mind.
 
-If you're building anything aligned with public intelligence or AI ethics beyond marketing.......... I would like to hear from you.
+If you're building anything aligned with public intelligence or AI ethics; I would like to hear from you.
 
 ---
 
