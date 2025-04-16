@@ -1,6 +1,6 @@
-# On Sovereign Intelligence
+# AI Sovereignty Notes
 
-An exploration into open-source AI systems and the political power it wields.
+An exploration into open-source AI systems and the political power they wield.
 
 This repository contains philosophical reflections and rhetorical frameworks for understanding the future of intelligence; beyond corporate entities and nation-states.
 
