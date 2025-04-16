@@ -6,18 +6,18 @@ This repository contains philosophical reflections and rhetorical frameworks for
 
 ---
 
-##  What’s Inside
-
-- `On_Sovereign_Intelligence.md`:  
-  A document outlining what my ideals represent, and the importance of preserving open-source AI development.
-
----
-
 ##  Why This Exists
 
 To build bridges between coders, philosophical thinkers, and anyone watching the rise of the machine mind.
 
 If you're building anything aligned with public intelligence or AI ethics; I would like to hear from you.
+
+---
+
+##  What’s Inside
+
+- `On_Sovereign_Intelligence.md`:  
+  A document outlining what my ideals represent, and the importance of preserving open-source AI development.
 
 ---
 
